@@ -1,8 +1,8 @@
 [package]
-name = "async-await-echo"
+name = "rust-http-demo"
 version = "0.1.0"
 edition = "2018"
 
 [dependencies]
-reqwest = "*"
+reqwest = "0.9.18"
 futures-preview = "0.3.0-alpha.17"
