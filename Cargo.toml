@@ -6,3 +6,4 @@ edition = "2018"
 [dependencies]
 reqwest = "0.9.18"
 futures-preview = "0.3.0-alpha.17"
+hyper = "0.12"

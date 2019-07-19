@@ -997,6 +997,7 @@ name = "rust-http-demo"
 version = "0.1.0"
 dependencies = [
  "futures-preview 0.3.0-alpha.17 (registry+https://github.com/rust-lang/crates.io-index)",
+ "hyper 0.12.32 (registry+https://github.com/rust-lang/crates.io-index)",
  "reqwest 0.9.18 (registry+https://github.com/rust-lang/crates.io-index)",
 ]
 
